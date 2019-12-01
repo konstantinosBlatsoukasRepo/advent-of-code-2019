@@ -1,0 +1,16 @@
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\bin\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\bin\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.deps.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\bin\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.runtimeconfig.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\bin\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.runtimeconfig.dev.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\bin\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\bin\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\obj\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\obj\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.AssemblyInfoInputs.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\obj\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.AssemblyInfo.cs
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\obj\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\obj\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\bin\Debug\netcoreapp3.0\FirstPartInput.txt
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\obj\Debug\netcoreapp3.0\Day1TheTyrannyOfTheRocketEquation.csproj.CopyComplete
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\bin\Debug\netcoreapp3.0\Parsing.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\bin\Debug\netcoreapp3.0\Parsing.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day1TheTyrannyOfTheRocketEquation\bin\Debug\netcoreapp3.0\Parsing.pdb

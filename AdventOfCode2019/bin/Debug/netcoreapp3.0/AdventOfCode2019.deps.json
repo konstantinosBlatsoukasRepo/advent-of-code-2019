@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AdventOfCode2019/1.0.0": {
+        "dependencies": {
+          "Day1TheTyrannyOfTheRocketEquation": "1.0.0"
+        },
+        "runtime": {
+          "AdventOfCode2019.dll": {}
+        }
+      },
+      "Day1TheTyrannyOfTheRocketEquation/1.0.0": {
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day1TheTyrannyOfTheRocketEquation.dll": {}
+        }
+      },
+      "Parsing/1.0.0": {
+        "runtime": {
+          "Parsing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventOfCode2019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day1TheTyrannyOfTheRocketEquation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parsing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

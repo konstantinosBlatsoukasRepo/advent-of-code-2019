@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Day1TheTyrannyOfTheRocketEquation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day1TheTyrannyOfTheRocketEquation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day1TheTyrannyOfTheRocketEquation.dll": {}
+        }
+      },
+      "Parsing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Parsing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Parsing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day1TheTyrannyOfTheRocketEquation/1.0.0": {
+      "type": "project",
+      "path": "../Day1TheTyrannyOfTheRocketEquation/Day1TheTyrannyOfTheRocketEquation.csproj",
+      "msbuildProject": "../Day1TheTyrannyOfTheRocketEquation/Day1TheTyrannyOfTheRocketEquation.csproj"
+    },
+    "Parsing/1.0.0": {
+      "type": "project",
+      "path": "../Parsing/Parsing.csproj",
+      "msbuildProject": "../Parsing/Parsing.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Day1TheTyrannyOfTheRocketEquation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\konst\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\AdventOfCode2019\\AdventOfCode2019.csproj",
+      "projectName": "AdventOfCode2019",
+      "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\AdventOfCode2019\\AdventOfCode2019.csproj",
+      "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\AdventOfCode2019\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day1TheTyrannyOfTheRocketEquation\\Day1TheTyrannyOfTheRocketEquation.csproj": {
+              "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day1TheTyrannyOfTheRocketEquation\\Day1TheTyrannyOfTheRocketEquation.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
