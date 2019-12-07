@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v3.0": {
       "AdventOfCode2019/1.0.0": {
         "dependencies": {
-          "Day1TheTyrannyOfTheRocketEquation": "1.0.0"
+          "Day1TheTyrannyOfTheRocketEquation": "1.0.0",
+          "Day21202ProgramAlarm": "1.0.0"
         },
         "runtime": {
           "AdventOfCode2019.dll": {}
@@ -20,6 +21,14 @@
         },
         "runtime": {
           "Day1TheTyrannyOfTheRocketEquation.dll": {}
+        }
+      },
+      "Day21202ProgramAlarm/1.0.0": {
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day21202ProgramAlarm.dll": {}
         }
       },
       "Parsing/1.0.0": {
@@ -36,6 +45,11 @@
       "sha512": ""
     },
     "Day1TheTyrannyOfTheRocketEquation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day21202ProgramAlarm/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

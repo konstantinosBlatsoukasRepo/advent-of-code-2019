@@ -1,4 +1,5 @@
 ﻿using Day1TheTyrannyOfTheRocketEquation;
+using Day21202ProgramAlarm;
 
 namespace AdventOfCode2019
 {
@@ -7,6 +8,7 @@ namespace AdventOfCode2019
         static void Main(string[] args)
         {
             Day1.ShowSolutions();
+            Day2.ShowSolutions();
         }
     }
 }

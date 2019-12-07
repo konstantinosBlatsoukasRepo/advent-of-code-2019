@@ -6,8 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Day1TheTyrannyOfTheRocketEquation\Day1TheTyrannyOfTheRocketEquation.csproj" />
-    <ProjectReference Include="..\Day21202ProgramAlarm\Day21202ProgramAlarm.csproj" />
+    <ProjectReference Include="..\Parsing\Parsing.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
