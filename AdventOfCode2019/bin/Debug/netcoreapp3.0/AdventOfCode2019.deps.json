@@ -9,7 +9,8 @@
       "AdventOfCode2019/1.0.0": {
         "dependencies": {
           "Day1TheTyrannyOfTheRocketEquation": "1.0.0",
-          "Day21202ProgramAlarm": "1.0.0"
+          "Day21202ProgramAlarm": "1.0.0",
+          "Day3CrossedWires": "1.0.0"
         },
         "runtime": {
           "AdventOfCode2019.dll": {}
@@ -31,6 +32,14 @@
           "Day21202ProgramAlarm.dll": {}
         }
       },
+      "Day3CrossedWires/1.0.0": {
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day3CrossedWires.dll": {}
+        }
+      },
       "Parsing/1.0.0": {
         "runtime": {
           "Parsing.dll": {}
@@ -50,6 +59,11 @@
       "sha512": ""
     },
     "Day21202ProgramAlarm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day3CrossedWires/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

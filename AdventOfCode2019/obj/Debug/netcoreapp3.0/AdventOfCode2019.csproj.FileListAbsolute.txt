@@ -20,4 +20,8 @@ C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcorea
 C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day21202ProgramAlarm.exe
 C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day21202ProgramAlarm.dll
 C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day21202ProgramAlarm.pdb
-C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\input.txt
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day3CrossedWires.exe
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day3CrossedWires.dll
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day3CrossedWires.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\day_3_input.txt
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\day_2_input.txt

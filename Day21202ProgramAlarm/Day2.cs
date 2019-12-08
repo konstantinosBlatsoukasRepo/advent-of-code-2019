@@ -11,7 +11,7 @@ namespace Day21202ProgramAlarm
         }
         public static void ShowSolutions()
         {
-            var parsedInput = new InputParser("input.txt").ReadInput();
+            var parsedInput = new InputParser("day_2_input.txt").ReadInput();
 
             Console.WriteLine("Day 2: 1202 Program Alarm");
             Console.WriteLine();

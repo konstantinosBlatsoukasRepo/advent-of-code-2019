@@ -1,0 +1,16 @@
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\bin\Debug\netcoreapp3.0\Parsing.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\bin\Debug\netcoreapp3.0\Day3CrossedWires.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\bin\Debug\netcoreapp3.0\Day3CrossedWires.deps.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\bin\Debug\netcoreapp3.0\Day3CrossedWires.runtimeconfig.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\bin\Debug\netcoreapp3.0\Day3CrossedWires.runtimeconfig.dev.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\bin\Debug\netcoreapp3.0\Day3CrossedWires.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\bin\Debug\netcoreapp3.0\Day3CrossedWires.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\bin\Debug\netcoreapp3.0\Parsing.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\bin\Debug\netcoreapp3.0\Parsing.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\obj\Debug\netcoreapp3.0\Day3CrossedWires.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\obj\Debug\netcoreapp3.0\Day3CrossedWires.AssemblyInfoInputs.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\obj\Debug\netcoreapp3.0\Day3CrossedWires.AssemblyInfo.cs
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\obj\Debug\netcoreapp3.0\Day3CrossedWires.csproj.CopyComplete
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\obj\Debug\netcoreapp3.0\Day3CrossedWires.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\obj\Debug\netcoreapp3.0\Day3CrossedWires.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day3CrossedWires\bin\Debug\netcoreapp3.0\day_3_input.txt

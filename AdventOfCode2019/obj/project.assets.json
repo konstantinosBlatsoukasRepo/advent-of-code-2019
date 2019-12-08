@@ -28,6 +28,19 @@
           "bin/placeholder/Day21202ProgramAlarm.dll": {}
         }
       },
+      "Day3CrossedWires/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day3CrossedWires.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day3CrossedWires.dll": {}
+        }
+      },
       "Parsing/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
@@ -51,6 +64,11 @@
       "path": "../Day21202ProgramAlarm/Day21202ProgramAlarm.csproj",
       "msbuildProject": "../Day21202ProgramAlarm/Day21202ProgramAlarm.csproj"
     },
+    "Day3CrossedWires/1.0.0": {
+      "type": "project",
+      "path": "../Day3CrossedWires/Day3CrossedWires.csproj",
+      "msbuildProject": "../Day3CrossedWires/Day3CrossedWires.csproj"
+    },
     "Parsing/1.0.0": {
       "type": "project",
       "path": "../Parsing/Parsing.csproj",
@@ -60,7 +78,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
       "Day1TheTyrannyOfTheRocketEquation >= 1.0.0",
-      "Day21202ProgramAlarm >= 1.0.0"
+      "Day21202ProgramAlarm >= 1.0.0",
+      "Day3CrossedWires >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -94,6 +113,9 @@
             },
             "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day21202ProgramAlarm\\Day21202ProgramAlarm.csproj": {
               "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day21202ProgramAlarm\\Day21202ProgramAlarm.csproj"
+            },
+            "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day3CrossedWires\\Day3CrossedWires.csproj": {
+              "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day3CrossedWires\\Day3CrossedWires.csproj"
             }
           }
         }
