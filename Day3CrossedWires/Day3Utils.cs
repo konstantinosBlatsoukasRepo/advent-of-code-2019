@@ -7,14 +7,6 @@ namespace Day3CrossedWires
     {
         public static HashSet<string> GetCommonPoints(HashSet<string> firstWirePoints, HashSet<string> secondWirePoints)
         {
-            //var commonPoints = new HashSet<string>();
-            //foreach (var secondWirePoint in secondWirePoints)
-            //{
-            //    if (firstWirePoints.Contains(secondWirePoint))
-            //    {
-            //        commonPoints.Add(secondWirePoint);
-            //    }
-            //}
             return secondWirePoints
                 .Where(p => firstWirePoints.Contains(p))
                 .ToHashSet();

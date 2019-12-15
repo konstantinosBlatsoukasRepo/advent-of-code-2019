@@ -25,3 +25,15 @@ C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcorea
 C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day3CrossedWires.pdb
 C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\day_3_input.txt
 C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\day_2_input.txt
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day4SecureContainer.exe
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day4SecureContainer.dll
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day4SecureContainer.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\day_4_input.txt
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.exe
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\day_5_input.txt
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.dll
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day6UniversalOrbitMap.exe
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day6UniversalOrbitMap.dll
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\Day6UniversalOrbitMap.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp3.0\day_6_input.txt

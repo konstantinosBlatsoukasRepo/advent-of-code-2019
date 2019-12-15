@@ -9,6 +9,9 @@
     <ProjectReference Include="..\Day1TheTyrannyOfTheRocketEquation\Day1TheTyrannyOfTheRocketEquation.csproj" />
     <ProjectReference Include="..\Day21202ProgramAlarm\Day21202ProgramAlarm.csproj" />
     <ProjectReference Include="..\Day3CrossedWires\Day3CrossedWires.csproj" />
+    <ProjectReference Include="..\Day4SecureContainer\Day4SecureContainer.csproj" />
+    <ProjectReference Include="..\Day5SunnyWithAChanceOfAsteroids\Day5SunnyWithAChanceOfAsteroids.csproj" />
+    <ProjectReference Include="..\Day6UniversalOrbitMap\Day6UniversalOrbitMap.csproj" />
   </ItemGroup>
 
 </Project>

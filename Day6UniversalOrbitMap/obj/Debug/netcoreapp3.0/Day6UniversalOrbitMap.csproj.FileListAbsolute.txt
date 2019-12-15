@@ -1,0 +1,16 @@
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\bin\Debug\netcoreapp3.0\Parsing.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\bin\Debug\netcoreapp3.0\Day6UniversalOrbitMap.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\bin\Debug\netcoreapp3.0\Day6UniversalOrbitMap.deps.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\bin\Debug\netcoreapp3.0\Day6UniversalOrbitMap.runtimeconfig.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\bin\Debug\netcoreapp3.0\Day6UniversalOrbitMap.runtimeconfig.dev.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\bin\Debug\netcoreapp3.0\Day6UniversalOrbitMap.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\bin\Debug\netcoreapp3.0\Day6UniversalOrbitMap.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\bin\Debug\netcoreapp3.0\Parsing.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\bin\Debug\netcoreapp3.0\Parsing.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\obj\Debug\netcoreapp3.0\Day6UniversalOrbitMap.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\obj\Debug\netcoreapp3.0\Day6UniversalOrbitMap.AssemblyInfoInputs.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\obj\Debug\netcoreapp3.0\Day6UniversalOrbitMap.AssemblyInfo.cs
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\obj\Debug\netcoreapp3.0\Day6UniversalOrbitMap.csproj.CopyComplete
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\obj\Debug\netcoreapp3.0\Day6UniversalOrbitMap.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\obj\Debug\netcoreapp3.0\Day6UniversalOrbitMap.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day6UniversalOrbitMap\bin\Debug\netcoreapp3.0\day_6_input.txt

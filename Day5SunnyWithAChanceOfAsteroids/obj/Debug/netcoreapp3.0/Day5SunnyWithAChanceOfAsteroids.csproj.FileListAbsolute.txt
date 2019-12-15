@@ -1,0 +1,16 @@
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\obj\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\obj\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.AssemblyInfoInputs.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\obj\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.AssemblyInfo.cs
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\bin\Debug\netcoreapp3.0\Parsing.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\bin\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\bin\Debug\netcoreapp3.0\day_5_input.txt
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\bin\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.deps.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\bin\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.runtimeconfig.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\bin\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.runtimeconfig.dev.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\bin\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\bin\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\bin\Debug\netcoreapp3.0\Parsing.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\bin\Debug\netcoreapp3.0\Parsing.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\obj\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.csproj.CopyComplete
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\obj\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day5SunnyWithAChanceOfAsteroids\obj\Debug\netcoreapp3.0\Day5SunnyWithAChanceOfAsteroids.pdb

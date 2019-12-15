@@ -25,7 +25,6 @@
                         break;
                     case (int)Instructions.Halt:
                         return output;
-
                 }
 
                 opcodeIndex += 4;

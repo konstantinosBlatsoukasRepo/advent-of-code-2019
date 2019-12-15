@@ -2,7 +2,7 @@
 
 namespace Day21202ProgramAlarm
 {
-    class FirstPuzzle
+    public class FirstPuzzle
     {
         private readonly string _input;
 

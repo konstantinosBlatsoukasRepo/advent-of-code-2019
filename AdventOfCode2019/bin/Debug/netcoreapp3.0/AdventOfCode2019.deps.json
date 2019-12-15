@@ -10,7 +10,10 @@
         "dependencies": {
           "Day1TheTyrannyOfTheRocketEquation": "1.0.0",
           "Day21202ProgramAlarm": "1.0.0",
-          "Day3CrossedWires": "1.0.0"
+          "Day3CrossedWires": "1.0.0",
+          "Day4SecureContainer": "1.0.0",
+          "Day5SunnyWithAChanceOfAsteroids": "1.0.0",
+          "Day6UniversalOrbitMap": "1.0.0"
         },
         "runtime": {
           "AdventOfCode2019.dll": {}
@@ -40,6 +43,30 @@
           "Day3CrossedWires.dll": {}
         }
       },
+      "Day4SecureContainer/1.0.0": {
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day4SecureContainer.dll": {}
+        }
+      },
+      "Day5SunnyWithAChanceOfAsteroids/1.0.0": {
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day5SunnyWithAChanceOfAsteroids.dll": {}
+        }
+      },
+      "Day6UniversalOrbitMap/1.0.0": {
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day6UniversalOrbitMap.dll": {}
+        }
+      },
       "Parsing/1.0.0": {
         "runtime": {
           "Parsing.dll": {}
@@ -64,6 +91,21 @@
       "sha512": ""
     },
     "Day3CrossedWires/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day4SecureContainer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day5SunnyWithAChanceOfAsteroids/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day6UniversalOrbitMap/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

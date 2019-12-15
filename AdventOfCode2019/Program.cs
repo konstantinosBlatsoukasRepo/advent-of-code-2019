@@ -1,6 +1,9 @@
 ﻿using Day1TheTyrannyOfTheRocketEquation;
 using Day21202ProgramAlarm;
 using Day3CrossedWires;
+using Day4SecureContainer;
+using Day5SunnyWithAChanceOfAsteroids;
+using Day6UniversalOrbitMap;
 
 namespace AdventOfCode2019
 {
@@ -11,6 +14,9 @@ namespace AdventOfCode2019
             Day1.ShowSolutions();
             Day2.ShowSolutions();
             Day3.ShowSolutions();
+            Day4.ShowSolutions();
+            Day5.ShowSolutions();
+            Day6.ShowSolutions();
         }
     }
 }
