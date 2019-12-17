@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace Day5SunnyWithAChanceOfAsteroids
 {
@@ -15,7 +16,9 @@ namespace Day5SunnyWithAChanceOfAsteroids
         {
             var input = _input.Split(",").Select(a => int.Parse(a)).ToArray();
 
-            var output = Day5Utils.RunProgram(input, 1);
+            var externalInput = new List<int> { 1 };
+
+            var output = Day5Utils.RunProgram(input, externalInput);
 
             return output;
         }

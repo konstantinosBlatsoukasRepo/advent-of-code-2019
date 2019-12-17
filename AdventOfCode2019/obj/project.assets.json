@@ -80,6 +80,33 @@
           "bin/placeholder/Day6UniversalOrbitMap.dll": {}
         }
       },
+      "Day7AmplificationCircuit/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Day5SunnyWithAChanceOfAsteroids": "1.0.0",
+          "Parsing": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day7AmplificationCircuit.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day7AmplificationCircuit.dll": {}
+        }
+      },
+      "Day8SpaceImageFormat/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day8SpaceImageFormat.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day8SpaceImageFormat.dll": {}
+        }
+      },
       "Parsing/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
@@ -123,6 +150,16 @@
       "path": "../Day6UniversalOrbitMap/Day6UniversalOrbitMap.csproj",
       "msbuildProject": "../Day6UniversalOrbitMap/Day6UniversalOrbitMap.csproj"
     },
+    "Day7AmplificationCircuit/1.0.0": {
+      "type": "project",
+      "path": "../Day7AmplificationCircuit/Day7AmplificationCircuit.csproj",
+      "msbuildProject": "../Day7AmplificationCircuit/Day7AmplificationCircuit.csproj"
+    },
+    "Day8SpaceImageFormat/1.0.0": {
+      "type": "project",
+      "path": "../Day8SpaceImageFormat/Day8SpaceImageFormat.csproj",
+      "msbuildProject": "../Day8SpaceImageFormat/Day8SpaceImageFormat.csproj"
+    },
     "Parsing/1.0.0": {
       "type": "project",
       "path": "../Parsing/Parsing.csproj",
@@ -136,7 +173,9 @@
       "Day3CrossedWires >= 1.0.0",
       "Day4SecureContainer >= 1.0.0",
       "Day5SunnyWithAChanceOfAsteroids >= 1.0.0",
-      "Day6UniversalOrbitMap >= 1.0.0"
+      "Day6UniversalOrbitMap >= 1.0.0",
+      "Day7AmplificationCircuit >= 1.0.0",
+      "Day8SpaceImageFormat >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -182,6 +221,12 @@
             },
             "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day6UniversalOrbitMap\\Day6UniversalOrbitMap.csproj": {
               "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day6UniversalOrbitMap\\Day6UniversalOrbitMap.csproj"
+            },
+            "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day7AmplificationCircuit\\Day7AmplificationCircuit.csproj": {
+              "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day7AmplificationCircuit\\Day7AmplificationCircuit.csproj"
+            },
+            "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day8SpaceImageFormat\\Day8SpaceImageFormat.csproj": {
+              "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day8SpaceImageFormat\\Day8SpaceImageFormat.csproj"
             }
           }
         }

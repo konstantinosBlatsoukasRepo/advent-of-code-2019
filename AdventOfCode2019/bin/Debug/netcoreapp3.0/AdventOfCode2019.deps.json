@@ -13,7 +13,9 @@
           "Day3CrossedWires": "1.0.0",
           "Day4SecureContainer": "1.0.0",
           "Day5SunnyWithAChanceOfAsteroids": "1.0.0",
-          "Day6UniversalOrbitMap": "1.0.0"
+          "Day6UniversalOrbitMap": "1.0.0",
+          "Day7AmplificationCircuit": "1.0.0",
+          "Day8SpaceImageFormat": "1.0.0"
         },
         "runtime": {
           "AdventOfCode2019.dll": {}
@@ -67,6 +69,23 @@
           "Day6UniversalOrbitMap.dll": {}
         }
       },
+      "Day7AmplificationCircuit/1.0.0": {
+        "dependencies": {
+          "Day5SunnyWithAChanceOfAsteroids": "1.0.0",
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day7AmplificationCircuit.dll": {}
+        }
+      },
+      "Day8SpaceImageFormat/1.0.0": {
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day8SpaceImageFormat.dll": {}
+        }
+      },
       "Parsing/1.0.0": {
         "runtime": {
           "Parsing.dll": {}
@@ -106,6 +125,16 @@
       "sha512": ""
     },
     "Day6UniversalOrbitMap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day7AmplificationCircuit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day8SpaceImageFormat/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

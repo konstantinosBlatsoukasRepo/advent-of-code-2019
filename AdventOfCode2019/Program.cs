@@ -4,6 +4,8 @@ using Day3CrossedWires;
 using Day4SecureContainer;
 using Day5SunnyWithAChanceOfAsteroids;
 using Day6UniversalOrbitMap;
+using Day7AmplificationCircuit;
+using Day8SpaceImageFormat;
 
 namespace AdventOfCode2019
 {
@@ -17,6 +19,8 @@ namespace AdventOfCode2019
             Day4.ShowSolutions();
             Day5.ShowSolutions();
             Day6.ShowSolutions();
+            Day7.ShowSolutions();
+            Day8.ShowSolutions();
         }
     }
 }

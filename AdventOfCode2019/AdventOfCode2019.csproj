@@ -12,6 +12,8 @@
     <ProjectReference Include="..\Day4SecureContainer\Day4SecureContainer.csproj" />
     <ProjectReference Include="..\Day5SunnyWithAChanceOfAsteroids\Day5SunnyWithAChanceOfAsteroids.csproj" />
     <ProjectReference Include="..\Day6UniversalOrbitMap\Day6UniversalOrbitMap.csproj" />
+    <ProjectReference Include="..\Day7AmplificationCircuit\Day7AmplificationCircuit.csproj" />
+    <ProjectReference Include="..\Day8SpaceImageFormat\Day8SpaceImageFormat.csproj" />
   </ItemGroup>
 
 </Project>

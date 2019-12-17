@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Day7AmplificationCircuit/1.0.0": {
+        "dependencies": {
+          "Day5SunnyWithAChanceOfAsteroids": "1.0.0",
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day7AmplificationCircuit.dll": {}
+        }
+      },
+      "Day5SunnyWithAChanceOfAsteroids/1.0.0": {
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day5SunnyWithAChanceOfAsteroids.dll": {}
+        }
+      },
+      "Parsing/1.0.0": {
+        "runtime": {
+          "Parsing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day7AmplificationCircuit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day5SunnyWithAChanceOfAsteroids/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parsing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

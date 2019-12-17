@@ -4,7 +4,7 @@ namespace Day5SunnyWithAChanceOfAsteroids
 {
     public class Day5Utils
     {
-        public static int RunProgram(int[] input, int systemId)
+        public static int RunProgram(int[] input, List<int> externalInput)
         {
             var output = new int[input.Length];
             input.CopyTo(output, 0);
@@ -12,6 +12,7 @@ namespace Day5SunnyWithAChanceOfAsteroids
             var opcodeIndex = 0;
             var opcodeAndModes = new OpcodeAndModes(output, opcodeIndex);
 
+            var externalInputIndex = 0;
             var prints = new List<int>();
             while (true)
             {
@@ -32,15 +33,16 @@ namespace Day5SunnyWithAChanceOfAsteroids
 
                         break;
                     case (int)Instructions.Save:
-                        output[output[1]] = systemId;
+                        output[output[opcodeIndex + 1]] = externalInput[externalInputIndex];
                         opcodeIndex += 2;
+                        externalInputIndex += 1;
                         opcodeAndModes = new OpcodeAndModes(output, opcodeIndex);
 
                         break;
                     case (int)Instructions.Output:
                         var outputValue = GetParamValue(output, opcodeIndex + 1, opcodeAndModes.FirstParamMode);
                         prints.Add(outputValue);
-                        
+
                         opcodeIndex += 2;
                         opcodeAndModes = new OpcodeAndModes(output, opcodeIndex);
 
@@ -58,7 +60,7 @@ namespace Day5SunnyWithAChanceOfAsteroids
                     case (int)Instructions.LessThan:
                         ExecuteLessThanOrEquals((int)Instructions.LessThan, output, opcodeIndex, opcodeAndModes);
 
-                        opcodeIndex += 4;                
+                        opcodeIndex += 4;
                         opcodeAndModes = new OpcodeAndModes(output, opcodeIndex);
 
                         break;
