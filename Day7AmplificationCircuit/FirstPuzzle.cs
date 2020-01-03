@@ -14,20 +14,22 @@ namespace Day7AmplificationCircuit
             _input = input;
         }
 
-        public int GetSolution()
+        public long GetSolution()
         {
-            var input = _input.Split(",").Select(a => int.Parse(a)).ToArray();
+            var program = _input.Split(",").Select(a => long.Parse(a)).ToArray();
 
-            var thrusterSignals = new List<int>();
+            var thrusterSignals = new List<long>();
             foreach (var currentCombo in AllCombinations)
             {
-                var externalInput = new List<int>();
-                var currentSignal = Day7Utils.GetMaxThrusterSignal(input, currentCombo, externalInput);
+                var externalInput = new List<long>();
+                var currentSignal = Day7Utils.GetMaxThrusterSignal(program, currentCombo, externalInput);
                 thrusterSignals.Add(currentSignal);
             }
 
             return thrusterSignals.Max();
         }
+
+
 
     }
 }

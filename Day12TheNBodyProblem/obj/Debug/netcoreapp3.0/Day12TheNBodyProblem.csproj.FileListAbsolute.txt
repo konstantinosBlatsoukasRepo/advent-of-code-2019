@@ -1,0 +1,16 @@
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\bin\Debug\netcoreapp3.0\Parsing.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\bin\Debug\netcoreapp3.0\Day12TheNBodyProblem.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\bin\Debug\netcoreapp3.0\day_12_input.txt
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\bin\Debug\netcoreapp3.0\Day12TheNBodyProblem.deps.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\bin\Debug\netcoreapp3.0\Day12TheNBodyProblem.runtimeconfig.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\bin\Debug\netcoreapp3.0\Day12TheNBodyProblem.runtimeconfig.dev.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\bin\Debug\netcoreapp3.0\Day12TheNBodyProblem.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\bin\Debug\netcoreapp3.0\Day12TheNBodyProblem.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\bin\Debug\netcoreapp3.0\Parsing.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\bin\Debug\netcoreapp3.0\Parsing.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\obj\Debug\netcoreapp3.0\Day12TheNBodyProblem.AssemblyInfoInputs.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\obj\Debug\netcoreapp3.0\Day12TheNBodyProblem.AssemblyInfo.cs
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\obj\Debug\netcoreapp3.0\Day12TheNBodyProblem.csproj.CopyComplete
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\obj\Debug\netcoreapp3.0\Day12TheNBodyProblem.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\obj\Debug\netcoreapp3.0\Day12TheNBodyProblem.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day12TheNBodyProblem\obj\Debug\netcoreapp3.0\Day12TheNBodyProblem.csprojAssemblyReference.cache

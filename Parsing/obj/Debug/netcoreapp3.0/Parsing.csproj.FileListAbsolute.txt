@@ -8,3 +8,4 @@ C:\Users\konst\source\repos\AdventOfCode2019\Parsing\bin\Debug\netcoreapp3.0\Par
 C:\Users\konst\source\repos\AdventOfCode2019\Parsing\bin\Debug\netcoreapp3.0\Parsing.pdb
 C:\Users\konst\source\repos\AdventOfCode2019\Parsing\obj\Debug\netcoreapp3.0\Parsing.dll
 C:\Users\konst\source\repos\AdventOfCode2019\Parsing\obj\Debug\netcoreapp3.0\Parsing.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Parsing\obj\Debug\netcoreapp3.0\Parsing.csprojAssemblyReference.cache

@@ -1,0 +1,2 @@
+﻿ - least common multiplier
+ - https://stackoverflow.com/questions/14007405/how-create-a-new-deep-copy-clone-of-a-listt

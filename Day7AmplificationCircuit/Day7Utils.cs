@@ -6,42 +6,24 @@ namespace Day7AmplificationCircuit
 {
     public class Day7Utils
     {
-        public static int GetMaxThrusterSignal(int[] input, string phaseSettings, List<int> externalInput)
+        public static long GetMaxThrusterSignal(long[] program, string phaseSettings, List<long> externalInput)
         {
             externalInput.Add(0);
             externalInput.Add(0);
 
-            var firstExternalInput = 0;
-            var thrusterSignlas = new List<int>();
+            long firstExternalInput = 0;
+            var thrusterSignlas = new List<long>();
 
             for (int currentAmp = 0; currentAmp < 5; currentAmp++)
             {
                 externalInput[1] = firstExternalInput;
                 externalInput[0] = int.Parse(phaseSettings[currentAmp].ToString());
 
-                var currentThrusterSignal = Day5Utils.RunProgram(input, externalInput);
+                var currentThrusterSignals = Day5Utils.RunProgram(program, externalInput);
+                var producedThursterSignal = currentThrusterSignals.Last();
 
-                thrusterSignlas.Add(currentThrusterSignal);
-                firstExternalInput = currentThrusterSignal;
-            }
-
-            return thrusterSignlas.Max();
-        }
-
-        public static int GetMaxThrusterSignalFeedback(int[] input, string phaseSettings, List<int> externalInput)
-        {
-            var firstExternalInput = 0;
-            var thrusterSignlas = new List<int>();
-
-            for (int currentAmp = 0; currentAmp < 5; currentAmp++)
-            {
-                externalInput.Add(int.Parse(phaseSettings[currentAmp].ToString()));
-                externalInput.Add(firstExternalInput);
- 
-                var currentThrusterSignal = Day5Utils.RunProgram(input, externalInput);
-
-                thrusterSignlas.Add(currentThrusterSignal);
-                firstExternalInput = currentThrusterSignal;
+                thrusterSignlas.Add(producedThursterSignal);
+                firstExternalInput = producedThursterSignal;
             }
 
             return thrusterSignlas.Max();

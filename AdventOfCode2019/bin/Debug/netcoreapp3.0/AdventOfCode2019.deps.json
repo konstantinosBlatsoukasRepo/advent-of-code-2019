@@ -8,6 +8,10 @@
     ".NETCoreApp,Version=v3.0": {
       "AdventOfCode2019/1.0.0": {
         "dependencies": {
+          "Day10MonitoringStation": "1.0.0",
+          "Day11SpacePolice": "1.0.0",
+          "Day12TheNBodyProblem": "1.0.0",
+          "Day13CarePackage": "1.0.0",
           "Day1TheTyrannyOfTheRocketEquation": "1.0.0",
           "Day21202ProgramAlarm": "1.0.0",
           "Day3CrossedWires": "1.0.0",
@@ -15,10 +19,44 @@
           "Day5SunnyWithAChanceOfAsteroids": "1.0.0",
           "Day6UniversalOrbitMap": "1.0.0",
           "Day7AmplificationCircuit": "1.0.0",
-          "Day8SpaceImageFormat": "1.0.0"
+          "Day8SpaceImageFormat": "1.0.0",
+          "Day9SensorBoost": "1.0.0"
         },
         "runtime": {
           "AdventOfCode2019.dll": {}
+        }
+      },
+      "Day10MonitoringStation/1.0.0": {
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day10MonitoringStation.dll": {}
+        }
+      },
+      "Day11SpacePolice/1.0.0": {
+        "dependencies": {
+          "Day9SensorBoost": "1.0.0",
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day11SpacePolice.dll": {}
+        }
+      },
+      "Day12TheNBodyProblem/1.0.0": {
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day12TheNBodyProblem.dll": {}
+        }
+      },
+      "Day13CarePackage/1.0.0": {
+        "dependencies": {
+          "Day9SensorBoost": "1.0.0"
+        },
+        "runtime": {
+          "Day13CarePackage.dll": {}
         }
       },
       "Day1TheTyrannyOfTheRocketEquation/1.0.0": {
@@ -86,6 +124,15 @@
           "Day8SpaceImageFormat.dll": {}
         }
       },
+      "Day9SensorBoost/1.0.0": {
+        "dependencies": {
+          "Day5SunnyWithAChanceOfAsteroids": "1.0.0",
+          "Parsing": "1.0.0"
+        },
+        "runtime": {
+          "Day9SensorBoost.dll": {}
+        }
+      },
       "Parsing/1.0.0": {
         "runtime": {
           "Parsing.dll": {}
@@ -95,6 +142,26 @@
   },
   "libraries": {
     "AdventOfCode2019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day10MonitoringStation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day11SpacePolice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day12TheNBodyProblem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day13CarePackage/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -135,6 +202,11 @@
       "sha512": ""
     },
     "Day8SpaceImageFormat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day9SensorBoost/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

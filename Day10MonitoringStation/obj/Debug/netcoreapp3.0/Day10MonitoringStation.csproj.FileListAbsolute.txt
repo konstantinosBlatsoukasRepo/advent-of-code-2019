@@ -1,0 +1,16 @@
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\obj\Debug\netcoreapp3.0\Day10MonitoringStation.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\obj\Debug\netcoreapp3.0\Day10MonitoringStation.AssemblyInfoInputs.cache
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\obj\Debug\netcoreapp3.0\Day10MonitoringStation.AssemblyInfo.cs
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\bin\Debug\netcoreapp3.0\Parsing.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\bin\Debug\netcoreapp3.0\Day10MonitoringStation.exe
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\bin\Debug\netcoreapp3.0\day_10_input.txt
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\bin\Debug\netcoreapp3.0\Day10MonitoringStation.deps.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\bin\Debug\netcoreapp3.0\Day10MonitoringStation.runtimeconfig.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\bin\Debug\netcoreapp3.0\Day10MonitoringStation.runtimeconfig.dev.json
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\bin\Debug\netcoreapp3.0\Day10MonitoringStation.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\bin\Debug\netcoreapp3.0\Day10MonitoringStation.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\bin\Debug\netcoreapp3.0\Parsing.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\bin\Debug\netcoreapp3.0\Parsing.pdb
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\obj\Debug\netcoreapp3.0\Day10MonitoringStation.csproj.CopyComplete
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\obj\Debug\netcoreapp3.0\Day10MonitoringStation.dll
+C:\Users\konst\source\repos\AdventOfCode2019\Day10MonitoringStation\obj\Debug\netcoreapp3.0\Day10MonitoringStation.pdb

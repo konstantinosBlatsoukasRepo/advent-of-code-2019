@@ -2,6 +2,59 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.0": {
+      "Day10MonitoringStation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day10MonitoringStation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day10MonitoringStation.dll": {}
+        }
+      },
+      "Day11SpacePolice/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Day9SensorBoost": "1.0.0",
+          "Parsing": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day11SpacePolice.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day11SpacePolice.dll": {}
+        }
+      },
+      "Day12TheNBodyProblem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Parsing": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day12TheNBodyProblem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day12TheNBodyProblem.dll": {}
+        }
+      },
+      "Day13CarePackage/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Day9SensorBoost": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day13CarePackage.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day13CarePackage.dll": {}
+        }
+      },
       "Day1TheTyrannyOfTheRocketEquation/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
@@ -107,6 +160,20 @@
           "bin/placeholder/Day8SpaceImageFormat.dll": {}
         }
       },
+      "Day9SensorBoost/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Day5SunnyWithAChanceOfAsteroids": "1.0.0",
+          "Parsing": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day9SensorBoost.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day9SensorBoost.dll": {}
+        }
+      },
       "Parsing/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
@@ -120,6 +187,26 @@
     }
   },
   "libraries": {
+    "Day10MonitoringStation/1.0.0": {
+      "type": "project",
+      "path": "../Day10MonitoringStation/Day10MonitoringStation.csproj",
+      "msbuildProject": "../Day10MonitoringStation/Day10MonitoringStation.csproj"
+    },
+    "Day11SpacePolice/1.0.0": {
+      "type": "project",
+      "path": "../Day11SpacePolice/Day11SpacePolice.csproj",
+      "msbuildProject": "../Day11SpacePolice/Day11SpacePolice.csproj"
+    },
+    "Day12TheNBodyProblem/1.0.0": {
+      "type": "project",
+      "path": "../Day12TheNBodyProblem/Day12TheNBodyProblem.csproj",
+      "msbuildProject": "../Day12TheNBodyProblem/Day12TheNBodyProblem.csproj"
+    },
+    "Day13CarePackage/1.0.0": {
+      "type": "project",
+      "path": "../Day13CarePackage/Day13CarePackage.csproj",
+      "msbuildProject": "../Day13CarePackage/Day13CarePackage.csproj"
+    },
     "Day1TheTyrannyOfTheRocketEquation/1.0.0": {
       "type": "project",
       "path": "../Day1TheTyrannyOfTheRocketEquation/Day1TheTyrannyOfTheRocketEquation.csproj",
@@ -160,6 +247,11 @@
       "path": "../Day8SpaceImageFormat/Day8SpaceImageFormat.csproj",
       "msbuildProject": "../Day8SpaceImageFormat/Day8SpaceImageFormat.csproj"
     },
+    "Day9SensorBoost/1.0.0": {
+      "type": "project",
+      "path": "../Day9SensorBoost/Day9SensorBoost.csproj",
+      "msbuildProject": "../Day9SensorBoost/Day9SensorBoost.csproj"
+    },
     "Parsing/1.0.0": {
       "type": "project",
       "path": "../Parsing/Parsing.csproj",
@@ -168,6 +260,10 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
+      "Day10MonitoringStation >= 1.0.0",
+      "Day11SpacePolice >= 1.0.0",
+      "Day12TheNBodyProblem >= 1.0.0",
+      "Day13CarePackage >= 1.0.0",
       "Day1TheTyrannyOfTheRocketEquation >= 1.0.0",
       "Day21202ProgramAlarm >= 1.0.0",
       "Day3CrossedWires >= 1.0.0",
@@ -175,7 +271,8 @@
       "Day5SunnyWithAChanceOfAsteroids >= 1.0.0",
       "Day6UniversalOrbitMap >= 1.0.0",
       "Day7AmplificationCircuit >= 1.0.0",
-      "Day8SpaceImageFormat >= 1.0.0"
+      "Day8SpaceImageFormat >= 1.0.0",
+      "Day9SensorBoost >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -204,6 +301,18 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
+            "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day10MonitoringStation\\Day10MonitoringStation.csproj": {
+              "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day10MonitoringStation\\Day10MonitoringStation.csproj"
+            },
+            "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day11SpacePolice\\Day11SpacePolice.csproj": {
+              "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day11SpacePolice\\Day11SpacePolice.csproj"
+            },
+            "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day12TheNBodyProblem\\Day12TheNBodyProblem.csproj": {
+              "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day12TheNBodyProblem\\Day12TheNBodyProblem.csproj"
+            },
+            "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day13CarePackage\\Day13CarePackage.csproj": {
+              "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day13CarePackage\\Day13CarePackage.csproj"
+            },
             "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day1TheTyrannyOfTheRocketEquation\\Day1TheTyrannyOfTheRocketEquation.csproj": {
               "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day1TheTyrannyOfTheRocketEquation\\Day1TheTyrannyOfTheRocketEquation.csproj"
             },
@@ -227,6 +336,9 @@
             },
             "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day8SpaceImageFormat\\Day8SpaceImageFormat.csproj": {
               "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day8SpaceImageFormat\\Day8SpaceImageFormat.csproj"
+            },
+            "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day9SensorBoost\\Day9SensorBoost.csproj": {
+              "projectPath": "C:\\Users\\konst\\source\\repos\\AdventOfCode2019\\Day9SensorBoost\\Day9SensorBoost.csproj"
             }
           }
         }

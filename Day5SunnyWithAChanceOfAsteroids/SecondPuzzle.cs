@@ -12,15 +12,15 @@ namespace Day5SunnyWithAChanceOfAsteroids
             _input = input;
         }
 
-        public int GetSolution()
+        public long GetSolution()
         {
-            var input = _input.Split(",").Select(a => int.Parse(a)).ToArray();
+            var input = _input.Split(",").Select(a => long.Parse(a)).ToArray();
 
-            var externalInput = new List<int> { 5 };
+            var externalInput = new List<long> { 5 };
 
             var output = Day5Utils.RunProgram(input, externalInput);
 
-            return output;
+            return output.Last();
         }
     }
 }

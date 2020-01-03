@@ -16,7 +16,7 @@ namespace Day7AmplificationCircuit
             Console.WriteLine("Day 7: Amplification Circuit");
             Console.WriteLine();
             Console.WriteLine($"First puzzle: {new FirstPuzzle(parsedInput).GetSolution()}");
-            //Console.WriteLine($"Second puzzle: {new SecondPuzzle(parsedInput).GetSolution()}");
+            Console.WriteLine($"Second puzzle: {new SecondPuzzle(parsedInput).GetSolution()}");
             Console.WriteLine();
         }
     }

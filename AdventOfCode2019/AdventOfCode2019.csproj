@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Day10MonitoringStation\Day10MonitoringStation.csproj" />
+    <ProjectReference Include="..\Day11SpacePolice\Day11SpacePolice.csproj" />
+    <ProjectReference Include="..\Day12TheNBodyProblem\Day12TheNBodyProblem.csproj" />
+    <ProjectReference Include="..\Day13CarePackage\Day13CarePackage.csproj" />
     <ProjectReference Include="..\Day1TheTyrannyOfTheRocketEquation\Day1TheTyrannyOfTheRocketEquation.csproj" />
     <ProjectReference Include="..\Day21202ProgramAlarm\Day21202ProgramAlarm.csproj" />
     <ProjectReference Include="..\Day3CrossedWires\Day3CrossedWires.csproj" />
@@ -14,6 +18,7 @@
     <ProjectReference Include="..\Day6UniversalOrbitMap\Day6UniversalOrbitMap.csproj" />
     <ProjectReference Include="..\Day7AmplificationCircuit\Day7AmplificationCircuit.csproj" />
     <ProjectReference Include="..\Day8SpaceImageFormat\Day8SpaceImageFormat.csproj" />
+    <ProjectReference Include="..\Day9SensorBoost\Day9SensorBoost.csproj" />
   </ItemGroup>
 
 </Project>

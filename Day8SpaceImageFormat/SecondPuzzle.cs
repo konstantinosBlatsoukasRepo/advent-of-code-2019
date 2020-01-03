@@ -84,7 +84,6 @@ namespace Day8SpaceImageFormat
                 }
                 Console.Write(Environment.NewLine);
             }
-            Console.ReadLine();
         }
 
     }
